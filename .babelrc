@@ -1,0 +1,4 @@
+  /* whatever babel loads it will look up for .babelrc and finds out babel-preset-env has to be run on it */
+{
+  "presets": ["babel-preset-env"]
+}
